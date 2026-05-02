@@ -1,5 +1,5 @@
 // Import Article model
-const Article = require("../models/Article");
+const Article = require("../models/article");
 
 // Import slug generator utility
 const generateSlug = require("../utils/slugGenerator");
